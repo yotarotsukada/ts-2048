@@ -2,6 +2,8 @@
 
 This is a simple implementation of the popular 2048 game, built using React and TypeScript.
 
+![how the game is played](./src/assets/movie.gif)
+
 ## Getting Started
 
 To run this app locally, follow these steps:
